@@ -1,7 +1,3 @@
 file 2
-<<<<<<< HEAD
-changes
-after commit
-=======
-modified 
->>>>>>> d6d673ef71df9f02c9ffaf87a572d3100e1839ba
+
+
