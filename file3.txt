@@ -1,3 +1,7 @@
 file 3
+<<<<<<< HEAD
 show head
 modify
+=======
+modified after vesrion 1
+>>>>>>> d6d673ef71df9f02c9ffaf87a572d3100e1839ba
